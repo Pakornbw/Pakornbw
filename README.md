@@ -1,57 +1,85 @@
-# Hi, I'm Pakorn 👋
+<h1 align="center">Hi 👋 I'm Pakorn</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-Full Stack Developer with experience in building web applications, backend APIs, and database systems.  
-Completed a 9-month internship at Blueseas Enterprise Co., Ltd.
+<p align="center">
+Building modern web applications with scalable backend systems
+</p>
 
-## 🚀 Tech Stack
-Frontend
-- React
-- TypeScript
-- Vite
-- Material UI
+---
 
-Backend
-- Node.js
-- Express
-- REST API
-- Bun
+## 🚀 About Me
 
-Database
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
+- 💻 Full Stack Developer
+- ⚡ Experienced in building web applications and backend APIs
+- 🏢 9-month internship at Blueseas Enterprise Co., Ltd.
+- 📍 Thailand
 
-Tools
-- Docker
-- Git
-- Figma
+---
 
-## 📌 Projects
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,vite" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 ### Point Management System
-Full-stack system for managing point activities and transactions.
+Full-stack system for managing point activities and transactions
 
-Tech:
-React, TypeScript, Node.js, PostgreSQL, Redis, BullMQ
+Tech Stack  
+React • TypeScript • Node.js • PostgreSQL • Redis • BullMQ
 
-### Smart Search System
-Document search system using Elasticsearch.
+---
 
-Tech:
-React, TypeScript, Node.js, MongoDB, Elasticsearch, Docker
+### Smart Search
+Document search system using Elasticsearch
+
+Tech Stack  
+React • TypeScript • Node.js • MongoDB • Elasticsearch • Docker
+
+---
 
 ### Superapp Dashboard
-Interactive dashboard with real-time widgets and charts.
+Interactive dashboard with widgets, charts, and realtime data
 
-Tech:
-React, Vite, Material UI, React Query, Firebase, ApexCharts
+Tech Stack  
+React • Vite • Material UI • React Query • Firebase • ApexCharts
 
-## 📜 Certificates
-- Flutter Framework Training
-- LINK Certified Network Cabling (LCCE)
-- ICDL Application Essentials
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pakornbw&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakornbw&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 📫 Contact
-Email: pakorn.bw.jz@gmail.com  
-LinkedIn: linkedin.com/in/pakorn-bw
+
+- Email: pakorn.bw.jz@gmail.com  
+- LinkedIn: https://linkedin.com/in/pakorn-bw  
+- GitHub: https://github.com/Pakornbw
