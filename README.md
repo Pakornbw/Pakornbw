@@ -16,14 +16,28 @@ Building modern web applications with scalable backend systems
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)s.dev/icons?i=docker,git,vscode,figma" />
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,vite" />
 </p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,figma" />
+</p>
+
 
 ---
 
